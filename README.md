@@ -8,7 +8,10 @@ Our approch is to spot those intention in dynamically changing US lobby network.
 ## Table of Contents
 ### 1. Case Demonstration
 #### Refer sources
-Bank Lobbying https://www.imf.org/~/media/Files/Publications/WP/2019/wpiea2019171-print-pdf.ashx
+##### Bank Lobbying 
+https://www.imf.org/~/media/Files/Publications/WP/2019/wpiea2019171-print-pdf.ashx
+Lobbying on Regulatory Enforcement Actions: Evidence from U.S. Commercial and Savings Banks
+
 Studying policy advocacy through social network analysis https://archive-ouverte.unige.ch/unige:82776
 
 ### 2. Anomalies defined
