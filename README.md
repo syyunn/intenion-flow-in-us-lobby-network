@@ -6,8 +6,11 @@ We define the anomalies as two types - one is structural change, the other one i
 Our approch is to spot those intention in dynamically changing US lobby network. By spotting differences from the previous phase of the lobby network, we spot the intentions that were not observables to us, and with a help of political experts, we will interpret those changes to understand the current political situation.
 
 ## Table of Contents
-### 1. Case Demontration
+### 1. Case Demonstration
+#### Refer sources
 Bank Lobbying https://www.imf.org/~/media/Files/Publications/WP/2019/wpiea2019171-print-pdf.ashx
+Studying policy advocacy through social network analysis https://archive-ouverte.unige.ch/unige:82776
+
 ### 2. Anomalies defined
 ### 3. Spotting anomalies 
 ### 3-1. Interpretation
