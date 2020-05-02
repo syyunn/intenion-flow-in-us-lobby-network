@@ -21,7 +21,7 @@ Home loans made by Ameriquest and other subprime lenders are defaulting now in
 large numbers." - [Glenn Simpson, “Lender Lobbying Blitz Abetted Mortgage Mess,” Wall Street Journal, December 31, 2007](https://www.wsj.com/articles/SB119906606162358773)
 - Is this verifiable in our Database?
 
-#### After Crisis Hit: The Golden Tab - Who's gonna be Bailed Out?
+#### After Crisis Hit: The Golden Tab - Who's gonna be Bailed Out? : TARP
 Troubled OneUnited Bank in Boston didn’t look much like a candidate for aid from the
 Treasury Department’s bank bailout fund last fall. […] Nonetheless, in December
 OneUnited got a $12 million injection from the Treasury’s Troubled Asset Relief
