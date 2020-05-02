@@ -38,6 +38,10 @@ the right ties to Washington, you get the golden tap on the shoulder. - [9 Damia
 https://www.nber.org/papers/w17076
 They construct a dataset combining information on banks’ lobbying and mortgage lending activities and ask whether lobbying lenders behaved differently from nonlobbying lenders in the 2000–2007 period and how they performed in 2008
 
+#### The Aftermath: Still the Banks Are Lobbying After 2008? Yes they do.
+See, e.g., Stephen Labaton, “Back to Business; Ailing, Banks Still Field Strong Lobby at Capitol.” New York
+Times, June 4, 2009; Ben Hallman, “FDIC Slow to Pursue Failed Bank Directors, Recover Tax Dollars.” Center
+for Public Integrity, March 15, 2011 (updated May 19, 2014)
 
 #### Refer sources
 ##### Bank Lobbying https://www.imf.org/~/media/Files/Publications/WP/2019/wpiea2019171-print-pdf.ashx
