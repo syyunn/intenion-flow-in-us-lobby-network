@@ -7,7 +7,7 @@ Our approch is to spot those intention in dynamically changing US lobby network.
 
 ## Table of Contents
 ### 1. Case Demontration
-Bank Lobbying file:///Users/zachary/Downloads/wpiea2019171-print-pdf%20(1).pdf
+Bank Lobbying https://www.imf.org/~/media/Files/Publications/WP/2019/wpiea2019171-print-pdf.ashx
 ### 2. Anomalies defined
 ### 3. Spotting anomalies 
 ### 3-1. Interpretation
