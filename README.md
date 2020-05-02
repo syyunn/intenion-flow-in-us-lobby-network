@@ -10,6 +10,7 @@ Our approch is to spot those intention in dynamically changing US lobby network.
 ## Table of Contents
 ### 1. Case Demonstration
 ### 2008 Financial Crisis
+#### The Beginning: Eases Regulation On Subprime Mortgage
 "Working with a husband-and-wife team of Washington lobbyists, [Ameriquest
 Mortgage Co.] handed out more than $20 million in political donations and played a
 big role in persuading legislators in New Jersey and Georgia to relax tough new laws.
@@ -19,6 +20,17 @@ houses by refinancing them for larger amounts than their existing mortgages. [�
 Home loans made by Ameriquest and other subprime lenders are defaulting now in
 large numbers." - [Glenn Simpson, “Lender Lobbying Blitz Abetted Mortgage Mess,” Wall Street Journal, December 31, 2007](https://www.wsj.com/articles/SB119906606162358773)
 - Is this verifiable in our Database?
+
+#### After Crisis Hit: The Golden Tab - Who's gonna be Bailed Out?
+Troubled OneUnited Bank in Boston didn’t look much like a candidate for aid from the
+Treasury Department’s bank bailout fund last fall. […] Nonetheless, in December
+OneUnited got a $12 million injection from the Treasury’s Troubled Asset Relief
+Program, or TARP. One apparent factor: the intercession of Rep. Barney Frank, the
+powerful head of the House Financial Services Committee. […] Some powerful
+politicians have used their leverage to try to direct federal millions toward banks in
+their home states. “It’s totally arbitrary,” says South Carolina Gov. Mark Sanford. “If
+you’ve got the right lobbyist and the right representative connected to Washington or
+the right ties to Washington, you get the golden tap on the shoulder. - [9 Damian Paletta and David Enrich, “Political Interference Seen in Bank Bailout Decisions,” Wall Street Journal, January 22, 2009.]()
 
 #### Refer sources
 ##### Bank Lobbying https://www.imf.org/~/media/Files/Publications/WP/2019/wpiea2019171-print-pdf.ashx
