@@ -20,13 +20,10 @@ Home loans made by Ameriquest and other subprime lenders are defaulting now in
 large numbers." - [Glenn Simpson, “Lender Lobbying Blitz Abetted Mortgage Mess,” Wall Street Journal, December 31, 2007](https://www.wsj.com/articles/SB119906606162358773)
 - Is this verifiable in our Database?
 
-
-
-##### Refer sources
-###### Bank Lobbying 
-https://www.imf.org/~/media/Files/Publications/WP/2019/wpiea2019171-print-pdf.ashx
-Lobbying on Regulatory Enforcement Actions: Evidence from U.S. Commercial and Savings Banks
-Studying policy advocacy through social network analysis https://archive-ouverte.unige.ch/unige:82776
+#### Refer sources
+##### Bank Lobbying https://www.imf.org/~/media/Files/Publications/WP/2019/wpiea2019171-print-pdf.ashx
+##### Lobbying on Regulatory Enforcement Actions: Evidence from U.S. Commercial and Savings Banks
+##### Studying policy advocacy through social network analysis https://archive-ouverte.unige.ch/unige:82776
 
 ### 2. Anomalies defined
 ### 3. Spotting anomalies 
