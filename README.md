@@ -9,11 +9,23 @@ Our approch is to spot those intention in dynamically changing US lobby network.
 
 ## Table of Contents
 ### 1. Case Demonstration
-#### Refer sources
-##### Bank Lobbying 
+### 2008 Financial Crisis
+"Working with a husband-and-wife team of Washington lobbyists, [Ameriquest
+Mortgage Co.] handed out more than $20 million in political donations and played a
+big role in persuading legislators in New Jersey and Georgia to relax tough new laws.
+[…] Ameriquest became a player in the business of lending to low-income
+homeowners. The company persuaded many homeowners to take cash out of their
+houses by refinancing them for larger amounts than their existing mortgages. […]
+Home loans made by Ameriquest and other subprime lenders are defaulting now in
+large numbers." - [Glenn Simpson, “Lender Lobbying Blitz Abetted Mortgage Mess,” Wall Street Journal, December 31, 2007](https://www.wsj.com/articles/SB119906606162358773)
+- Is this verifiable in our Database?
+
+
+
+##### Refer sources
+###### Bank Lobbying 
 https://www.imf.org/~/media/Files/Publications/WP/2019/wpiea2019171-print-pdf.ashx
 Lobbying on Regulatory Enforcement Actions: Evidence from U.S. Commercial and Savings Banks
-
 Studying policy advocacy through social network analysis https://archive-ouverte.unige.ch/unige:82776
 
 ### 2. Anomalies defined
