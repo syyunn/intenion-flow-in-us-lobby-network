@@ -34,6 +34,7 @@ the right ties to Washington, you get the golden tap on the shoulder. - [9 Damia
 
 #### Empirical Validation: "A Fistful of Dollars: Lobbying and the Financial Crisis"
 https://www.nber.org/papers/w17076
+They construct a dataset combining information on banks’ lobbying and mortgage lending activities and ask whether lobbying lenders behaved differently from nonlobbying lenders in the 2000–2007 period and how they performed in 2008
 
 
 #### Refer sources
