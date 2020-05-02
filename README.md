@@ -32,6 +32,10 @@ their home states. “It’s totally arbitrary,” says South Carolina Gov. Mark
 you’ve got the right lobbyist and the right representative connected to Washington or
 the right ties to Washington, you get the golden tap on the shoulder. - [9 Damian Paletta and David Enrich, “Political Interference Seen in Bank Bailout Decisions,” Wall Street Journal, January 22, 2009.]()
 
+#### Empirical Validation: "A Fistful of Dollars: Lobbying and the Financial Crisis"
+https://www.nber.org/papers/w17076
+
+
 #### Refer sources
 ##### Bank Lobbying https://www.imf.org/~/media/Files/Publications/WP/2019/wpiea2019171-print-pdf.ashx
 ##### Lobbying on Regulatory Enforcement Actions: Evidence from U.S. Commercial and Savings Banks
