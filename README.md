@@ -1,5 +1,7 @@
 # intenion-flow-in-us-lobby-network
 
+*remember that lobby could have two distrinct objectives: 1) regulatory captrue(changing the law) 2) infomrational lobby (to acquire congressional information)
+
 ## Goal
 We define the anomalies as two types - one is structural change, the other one is weight change. Actors participating in US lobby network basically has its own intention. Those intentions are realized by flow the money to the other actors and those flow actually constitute the how to intentions are flowing in the network.
 
