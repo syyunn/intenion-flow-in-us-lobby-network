@@ -54,3 +54,5 @@ for Public Integrity, March 15, 2011 (updated May 19, 2014)
 
 ## References
 Fast and Accurate Anomaly Detection in Dynamic Graphs with a Two-Pronged Approach
+
+## https://www.deseret.com/2008/1/6/20062499/lender-lobbying-blitz-abets-mortgage-mess
